@@ -22,3 +22,9 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+### Others
+.idea/*
+rebel.xml
+*/target
+*/.settings
